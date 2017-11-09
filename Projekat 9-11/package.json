@@ -1,0 +1,18 @@
+{
+  "name": "projekat9-11",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "neske",
+  "license": "ISC",
+  "devDependencies": {
+    "axios": "^0.17.0",
+    "babel-cli": "^6.26.0",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "eslint": "^4.10.0"
+  }
+}
